@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ExtendedFoundation",
+        "repositoryURL": "https://github.com/jrmybrault/ExtendedFoundation",
+        "state": {
+          "branch": null,
+          "revision": "f850112a8e540421e4f62481f6f4b92cb4d140a8",
+          "version": "1.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
